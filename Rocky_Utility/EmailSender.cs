@@ -43,7 +43,7 @@ namespace Rocky_Utility
       {
        "From",
        new JObject {
-        {"Email", "dotnetmastery@protonmail.com"},
+        {"Email", "sergiogalarzalopez2@gmail.com"},
         {"Name", "Ben"}
        }
       }, {

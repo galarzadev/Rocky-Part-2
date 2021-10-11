@@ -13,7 +13,10 @@ namespace Rocky_Utility
         public const string AdminRole = "Admin";
         public const string CustomerRole = "Customer";
 
-        public const string EmailAdmin = "ben.spark90@yahoo.com";
+        public const string EmailAdmin = "sergiogalarzalopez2@gmail.com";
+
+        public const string CategoryName = "Category";
+        public const string ApplicationName = "ApplicationType";
 
     }
 }
